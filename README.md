@@ -13,3 +13,6 @@ You also need a hosting service so that Twilio can connect to your localhost and
 - Open another terminal tab and fire up "ngrok". Example: `./ngrok http 5000`
 - Follow instructions on how to connect ngrok with Twilio here (Step 4): https://www.twilio.com/blog/2013/10/test-your-webhooks-locally-with-ngrok.html
 - Pick up your phone, text to your Twilio number, and get a Spanish translation.
+
+## Demo
+ ![](demo.gif)
